@@ -5,7 +5,7 @@
 ## Участники
 
 * **Caio Fleury** - [@CaioF](https://github.com/CaioF)
-* **Davit Meliksetyan** [@melic]
+* **Davit Meliksetyan** - [@melic](https://github.com/melic)
 * **Павел Добрачёв**
 * **Albina Zamaletdinova**
 * **Надежда Басаргина**
